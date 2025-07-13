@@ -1,2 +1,1 @@
-# Fake_News_Headline_Generator
-A fun and simple python project that generates random fake news headlines using templates and keywords pools
+The Fake News Headline Generator is a fun, beginner-friendly Python project that generates quirky, humorous, and absurd news headlines. Each headline is randomly composed from a set of fictional subjects, actions, and places grouped under categories like Science, Entertainment, and Tech.
